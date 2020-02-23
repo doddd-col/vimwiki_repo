@@ -1,1 +1,1 @@
-# vimwiki_repo_-essay
+# vimwiki_repo
