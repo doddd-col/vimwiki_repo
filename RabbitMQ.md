@@ -1,5 +1,5 @@
 ## RabbitMQ
-由AMQP(Adcanved Message Queue Protoco)的开源实现
+由AMQP(Advanced Message Queue Protoco)的开源实现
 
 **核心概念**  
 1. Message
@@ -13,3 +13,19 @@
 9. Virtual Host
 10. Broker
 
+
+命令
+```
+rabbitmqctl add_user user_name user_pass
+
+rabbitmqctl delete_user user_name
+
+rabbitmqctl change_password user_name newpass
+
+rabbitmqctl list_users
+
+// administrator monitoring policymaker managerment other
+rabbitmqctl set_user_tags user_name role
+```
+
+<++>

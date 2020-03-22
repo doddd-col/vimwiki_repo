@@ -18,6 +18,25 @@
   16. [自定义starter](自定义starter)
 
 
+
+----
+
+## 算法
+  1. [十大排序](十大排序)
+  2. [递归](递归)
+  3. [leetcode](leetcode)
+  4. [BFS和DFS](BFS和DFS) 
+
+
+----
+
+## JVM
+  1. JVM整体架构
+
+----
+
+## [设计模式](设计模式)
+
 ----
 
 ## SpringBootImprove
@@ -26,11 +45,12 @@
   3. [RedisTemplate和序列化](RedisTemplate和序列化)
   4. [CacheManager](CacheManager)
   5. [RabbitMQ](RabbitMQ)
-  6. 
+  6. [RabbitMQ整合](RabbitMQ整合)
+  7. [异步、定时、邮件任务](异步、定时、邮件任务)
+  8. [整合SpringSecurity](整合SpringSecurity)
+  9. [整合Shiro](整合Shiro)
 
 ----
-
-
 ## Mistake
   1. [修改thymeleaf版本出现错误](修改thymeleaf版本出现错误) 
   2. [SpringBoot发送DELETE请求出现405](SpringBoot发送DELETE请求出现405) 
@@ -40,6 +60,7 @@
   6. [jpa或hibernate的延迟加载](jpa或hibernate的延迟加载)
   7. [jpa驼峰式命名自动映射转为下划线](jpa驼峰式命名自动映射转为下划线)
   8. [jpa里面getOne()的坑](jpa里面getOne)  
+  9. [docker安装RabbitMQ无法访问控制台](docker安装RabbitMQ无法访问控制台)
 
 ----
 
@@ -82,9 +103,24 @@
 
 
 
+----
+
+## Shiro
+  1. 
 
 
 ----
 
 ## Linux
   1. [ssh卡住问题](ssh卡住问题)
+
+
+
+----
+
+## Java
+  1. [动态代理](动态代理)
+
+----
+## English
+  1. [some words](somewords)
